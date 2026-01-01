@@ -1,1 +1,1 @@
-#This project is about writing some queries on window function
+#This project is about writing some queries on window functions
