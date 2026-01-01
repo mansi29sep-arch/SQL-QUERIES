@@ -1,0 +1,363 @@
+"ride_id";"rideable_type";"started_at";"ended_at";"start_station_name";"member_casual";"duration"
+"748A93D7DE8A41CD";"classic_bike";"2024-01-25 15:49:59";"2024-01-25 15:52:35";"1st & O St NW";"member";156
+"75CBFD136F06305B";"classic_bike";"2024-01-02 16:44:58";"2024-01-02 16:53:25";"1st & O St NW";"member";507
+"0536C9720F87E04C";"classic_bike";"2024-01-24 15:40:15";"2024-01-24 15:43:55";"1st & O St NW";"member";220
+"9E17390C218783B5";"classic_bike";"2024-01-04 15:35:00";"2024-01-04 15:37:35";"1st & O St NW";"member";155
+"00727D0E773CDFF7";"electric_bike";"2024-01-05 12:27:58";"2024-01-05 12:35:40";"1st & O St NW";"casual";462
+"CFE1D1300DA4B471";"classic_bike";"2024-01-02 08:04:00";"2024-01-02 08:20:06";"1st & O St NW";"casual";966
+"9645567A2A28DD0C";"classic_bike";"2024-01-03 08:30:20";"2024-01-03 08:43:36";"1st & O St NW";"casual";796
+"33A3DDDBA995093F";"electric_bike";"2024-01-28 16:03:16";"2024-01-28 16:10:47";"11th & Park Rd NW";"member";451
+"EC4E369AEB78721E";"electric_bike";"2024-01-28 12:54:01";"2024-01-28 13:00:03";"11th & Park Rd NW";"member";362
+"1171330C322E4BC1";"classic_bike";"2024-01-29 09:05:20";"2024-01-29 09:14:50";"1st & O St NW";"member";570
+"70618C6DE3FA6AFD";"electric_bike";"2024-01-22 17:21:15";"2024-01-22 17:25:59";"First St & Fayette St";"casual";284
+"E67A158E37FEEAF1";"classic_bike";"2024-01-03 08:15:18";"2024-01-03 08:26:12";"1st & O St NW";"casual";654
+"C52813D5CB7A29E6";"electric_bike";"2024-01-25 22:29:06";"2024-01-25 22:37:40";"Kansas Ave & Sherman Cr NW";"member";514
+"CE392FE4D237507A";"electric_bike";"2024-01-11 08:19:57";"2024-01-11 08:35:00";"Wilson Blvd & N Troy St";"member";903
+"21C6D36738362173";"electric_bike";"2024-01-11 17:53:18";"2024-01-11 17:57:12";"Wilson Blvd & N Oak St";"casual";234
+"116786D537ACD2AC";"classic_bike";"2024-01-25 15:56:41";"2024-01-25 17:04:17";"9th St & Pennsylvania Ave NW";"casual";4056
+"EADB7F56F835FBF4";"electric_bike";"2024-01-26 21:31:18";"2024-01-26 21:36:15";"Wilson Blvd & N Oak St";"member";297
+"72F89023B6C571E7";"electric_bike";"2024-01-10 12:54:04";"2024-01-10 13:02:38";"Half & Water St SW";"member";514
+"D836BD6830A36378";"classic_bike";"2024-01-03 12:51:12";"2024-01-03 13:01:34";"Half & Water St SW";"member";622
+"D80EA43E2A4AFEA9";"classic_bike";"2024-01-05 12:49:55";"2024-01-05 13:00:06";"Half & Water St SW";"member";611
+"27AD6F178F9FA645";"electric_bike";"2024-01-11 12:53:30";"2024-01-11 13:02:27";"Half & Water St SW";"member";537
+"030B8C7D920F60F6";"electric_bike";"2024-01-10 16:35:44";"2024-01-10 16:45:20";"9th St & Pennsylvania Ave NW";"member";576
+"1DC7DBB4CD880129";"classic_bike";"2024-01-07 16:21:56";"2024-01-07 16:26:00";"Wilson Blvd & N Oak St";"member";244
+"EFF2372E0772CC81";"electric_bike";"2024-01-29 13:52:50";"2024-01-29 14:11:38";"Eastern Market / 7th & North Carolina Ave SE";"member";1128
+"65C15787BADC8EC6";"electric_bike";"2024-01-24 12:37:27";"2024-01-24 12:45:14";"Georgia & New Hampshire Ave NW";"casual";467
+"2CBD172FE9B20392";"classic_bike";"2024-01-11 20:23:12";"2024-01-11 20:39:14";"5th & F St NW";"casual";962
+"2A0BF3DC51DB309F";"electric_bike";"2024-01-23 15:14:39";"2024-01-23 15:47:27";"Georgia & New Hampshire Ave NW";"casual";1968
+"1F3760BBE80AB838";"electric_bike";"2024-01-10 11:45:27";"2024-01-10 11:52:57";"Georgia & New Hampshire Ave NW";"casual";450
+"04730B123E81B92B";"classic_bike";"2024-01-03 16:22:12";"2024-01-03 16:58:27";"5th & F St NW";"member";2175
+"5039AFE4AFCF39BE";"electric_bike";"2024-01-27 14:02:25";"2024-01-27 14:12:34";"5th & F St NW";"member";609
+"AB6DFA46B1BE0008";"classic_bike";"2024-01-23 17:40:46";"2024-01-23 17:47:37";"5th & F St NW";"member";411
+"E7A7284523A4F162";"classic_bike";"2024-01-26 06:45:52";"2024-01-26 06:51:16";"Eastern Market / 7th & North Carolina Ave SE";"member";324
+"5CD1F52634544938";"electric_bike";"2024-01-27 14:02:30";"2024-01-27 14:12:40";"5th & F St NW";"member";610
+"4CDD792B19BE5AA1";"classic_bike";"2024-01-29 21:05:38";"2024-01-29 21:21:45";"Eastern Market / 7th & North Carolina Ave SE";"member";967
+"BB910B54D2945A5D";"classic_bike";"2024-01-07 20:53:26";"2024-01-07 21:02:50";"11th & S St NW";"member";564
+"9803DB10EEEA722A";"electric_bike";"2024-01-18 15:44:54";"2024-01-18 15:50:26";"1st & N St SE";"casual";332
+"5E8AC4C164E56F57";"classic_bike";"2024-01-26 17:21:10";"2024-01-26 17:32:57";"Wilson Blvd & N Oak St";"casual";707
+"8F2E3F2FDF972CC5";"electric_bike";"2024-01-30 11:40:58";"2024-01-30 11:48:21";"Virginia Hospital Center";"member";443
+"89A424B62FC93872";"classic_bike";"2024-01-07 15:16:10";"2024-01-07 15:59:54";"9th St & Pennsylvania Ave NW";"member";2624
+"DCB397CCC6275ACF";"classic_bike";"2024-01-24 13:18:50";"2024-01-24 13:53:07";"Columbia Pike & S Greenbrier St";"member";2057
+"AFE4CCF95E65DB7F";"electric_bike";"2024-01-25 07:11:05";"2024-01-25 07:35:13";"Half & Water St SW";"casual";1448
+"F314D85AC6027E18";"electric_bike";"2024-01-26 16:12:33";"2024-01-26 16:18:36";"Virginia Hospital Center";"casual";363
+"CECFC90BFA55107A";"electric_bike";"2024-01-26 08:22:15";"2024-01-26 08:47:59";"Half & Water St SW";"casual";1544
+"FF27A3F0CD836D65";"classic_bike";"2024-01-29 09:49:40";"2024-01-29 09:57:03";"Virginia Hospital Center";"member";443
+"4DA38021CBF906C4";"electric_bike";"2024-01-03 17:49:30";"2024-01-03 18:18:53";"Wilson Blvd & N Oak St";"member";1763
+"1AE14BD4B2B02517";"electric_bike";"2024-01-12 18:02:14";"2024-01-12 18:32:54";"Wilson Blvd & N Oak St";"member";1840
+"D4D7E5E68A9F688E";"electric_bike";"2024-01-11 08:06:52";"2024-01-11 08:11:25";"9th St & Pennsylvania Ave NW";"member";273
+"1BD12401E0E8F3E5";"classic_bike";"2024-01-08 11:49:57";"2024-01-08 11:57:57";"Oklahoma Ave & D St NE";"member";480
+"29739622EBD313BE";"classic_bike";"2024-01-28 22:01:13";"2024-01-28 22:14:22";"1st & N St SE";"member";789
+"F4F6331C9BB35079";"electric_bike";"2024-01-25 15:18:53";"2024-01-25 15:26:29";"8th & H St NE";"member";456
+"EE2CFA0D36285661";"classic_bike";"2024-01-13 14:19:39";"2024-01-13 14:39:13";"8th & H St NE";"member";1174
+"92804F789406CDAE";"classic_bike";"2024-01-13 19:55:33";"2024-01-13 20:07:23";"2nd St & Massachusetts Ave NE";"member";710
+"3EC5A8B9E00CA645";"classic_bike";"2024-01-29 08:38:38";"2024-01-29 08:45:23";"2nd St & Massachusetts Ave NE";"casual";405
+"06F568BCF84A2828";"electric_bike";"2024-01-14 10:41:45";"2024-01-14 10:46:47";"2nd St & Massachusetts Ave NE";"casual";302
+"777D5376426A48B5";"classic_bike";"2024-01-29 11:25:52";"2024-01-29 11:37:08";"2nd St & Massachusetts Ave NE";"member";676
+"B70591DA910B073E";"classic_bike";"2024-01-11 15:22:55";"2024-01-11 15:39:14";"N Lynn St & Fairfax Dr";"member";979
+"544754B9025E106C";"electric_bike";"2024-01-26 08:19:23";"2024-01-26 08:42:59";"Columbia & Ontario Rd NW";"member";1416
+"DEEC7EEB38EF659D";"classic_bike";"2024-01-12 14:37:26";"2024-01-12 14:53:44";"N Lynn St & Fairfax Dr";"member";978
+"1195EB58F547760F";"electric_bike";"2024-01-14 14:30:55";"2024-01-14 14:41:10";"N Lynn St & Fairfax Dr";"member";615
+"A13881E86671455F";"classic_bike";"2024-01-02 14:04:56";"2024-01-02 14:25:48";"N Lynn St & Fairfax Dr";"member";1252
+"FA05EAF2E33A2CF4";"classic_bike";"2024-01-07 14:40:52";"2024-01-07 15:00:54";"N Lynn St & Fairfax Dr";"member";1202
+"54F90E2C1E23DDBE";"electric_bike";"2024-01-30 08:42:19";"2024-01-30 08:56:50";"Lincoln Rd & Seaton Pl NE/Harry Thomas Rec Center";"member";871
+"27CB36B8736692DC";"classic_bike";"2024-01-26 08:43:51";"2024-01-26 08:53:58";"Massachusetts Ave & 6th St NE";"member";607
+"A59D25E9617F15BF";"classic_bike";"2024-01-10 16:29:39";"2024-01-10 16:36:01";"Alabama & MLK Ave SE";"member";382
+"7F6EB9E56D972AD2";"classic_bike";"2024-01-05 22:58:07";"2024-01-05 23:04:08";"1st & O St NW";"member";361
+"C6FF417383F01E06";"classic_bike";"2024-01-13 12:45:26";"2024-01-13 12:51:39";"Alabama & MLK Ave SE";"casual";373
+"8DD20FEDB618CE47";"classic_bike";"2024-01-08 19:11:35";"2024-01-08 19:15:42";"1st & O St NW";"member";247
+"03A98F39C412ACD9";"classic_bike";"2024-01-02 17:11:18";"2024-01-02 17:23:10";"11th & Park Rd NW";"casual";712
+"D0B068C458A2A5A7";"classic_bike";"2024-01-01 13:58:05";"2024-01-01 14:05:49";"11th & Park Rd NW";"member";464
+"A66AAE54C9F23234";"electric_bike";"2024-01-14 11:35:58";"2024-01-14 11:55:27";"11th & Park Rd NW";"casual";1169
+"622AB63A6236BD71";"electric_bike";"2024-01-12 12:53:19";"2024-01-12 13:04:06";"9th St & Pennsylvania Ave NW";"member";647
+"606FBEF8A428B00F";"electric_bike";"2024-01-22 18:07:18";"2024-01-22 18:19:59";"9th St & Pennsylvania Ave NW";"member";761
+"E6402C5C0993F13E";"electric_bike";"2024-01-03 17:09:29";"2024-01-03 17:24:02";"9th St & Pennsylvania Ave NW";"member";873
+"9C46397B33A2CAF2";"electric_bike";"2024-01-13 12:14:55";"2024-01-13 12:20:18";"11th & S St NW";"casual";323
+"96F6BE89B982C34E";"classic_bike";"2024-01-24 19:13:44";"2024-01-24 19:30:44";"8th & D St NW";"casual";1020
+"69192416F74C4750";"classic_bike";"2024-01-14 14:10:33";"2024-01-14 14:18:17";"5th & F St NW";"member";464
+"4EBD37687C4FD448";"classic_bike";"2024-01-04 16:00:29";"2024-01-04 16:12:23";"Georgia & New Hampshire Ave NW";"casual";714
+"F20AFBFE45D9DC7E";"classic_bike";"2024-01-29 14:23:33";"2024-01-29 14:29:53";"8th & D St NW";"casual";380
+"ADB18CB3927FE87C";"classic_bike";"2024-01-26 07:45:04";"2024-01-26 07:53:47";"Georgia & New Hampshire Ave NW";"member";523
+"CB0C39A0210BC580";"classic_bike";"2024-01-05 08:55:56";"2024-01-05 09:08:11";"Georgia & New Hampshire Ave NW";"member";735
+"030CDC372CC914FF";"classic_bike";"2024-01-27 13:49:31";"2024-01-27 14:05:19";"11th & S St NW";"member";948
+"BD7AAE9A7B7F2174";"classic_bike";"2024-01-07 16:17:34";"2024-01-07 16:30:17";"11th & S St NW";"member";763
+"D1A8DA3FEC2F0286";"classic_bike";"2024-01-23 16:14:23";"2024-01-23 16:24:26";"5th & F St NW";"member";603
+"DB3E2F6593C154A5";"classic_bike";"2024-01-31 16:45:25";"2024-01-31 16:51:57";"5th & F St NW";"member";392
+"BB7EEF68943467E4";"classic_bike";"2024-01-07 13:48:18";"2024-01-07 14:05:17";"11th & S St NW";"member";1019
+"50FFD93D74776242";"classic_bike";"2024-01-23 21:30:39";"2024-01-23 21:34:56";"14th & Harvard St NW";"member";257
+"B73B616E024973DA";"electric_bike";"2024-01-28 11:15:16";"2024-01-28 11:34:01";"Kansas Ave & Sherman Cr NW";"member";1125
+"AD297ADF7CB0F271";"electric_bike";"2024-01-12 17:04:04";"2024-01-12 17:13:32";"14th & Upshur St NW";"member";568
+"E478C673F6362A83";"classic_bike";"2024-01-27 11:54:58";"2024-01-27 12:15:39";"8th & H St NE";"member";1241
+"3DA601AE37CD4141";"classic_bike";"2024-01-31 12:02:41";"2024-01-31 12:23:26";"Calvert St & Woodley Pl NW";"member";1245
+"65B38983CA5D9D52";"classic_bike";"2024-01-31 11:46:47";"2024-01-31 12:06:18";"2nd St & Massachusetts Ave NE";"casual";1171
+"0F2DE0AA6AC92F44";"classic_bike";"2024-01-30 16:49:05";"2024-01-30 16:57:24";"Baron Cameron Ave & North Hampton Ave";"casual";499
+"6820FDC84C1C6D39";"classic_bike";"2024-01-07 12:32:32";"2024-01-07 12:56:37";"8th & K St NE";"member";1445
+"12DD44B0460F75EF";"electric_bike";"2024-01-13 13:54:33";"2024-01-13 14:13:09";"8th & K St NE";"member";1116
+"61BF0F4703645FB6";"classic_bike";"2024-01-12 18:42:05";"2024-01-13 10:37:47";"2nd St & Massachusetts Ave NE";"member";57342
+"8BD2BD1FA49D0EF9";"classic_bike";"2024-01-03 06:41:02";"2024-01-03 06:48:44";"Baron Cameron Ave & North Hampton Ave";"member";462
+"7BA2856D6BA73A6C";"classic_bike";"2024-01-05 10:13:21";"2024-01-05 10:21:35";"Baron Cameron Ave & North Hampton Ave";"member";494
+"4117BD60B9473AAD";"electric_bike";"2024-01-31 15:46:39";"2024-01-31 15:57:19";"2nd St & Massachusetts Ave NE";"member";640
+"7327294D3EA9AFB3";"classic_bike";"2024-01-15 18:37:24";"2024-01-15 19:06:46";"15th St & Constitution Ave NW";"member";1762
+"1BCFF0DB27E2E734";"classic_bike";"2024-01-17 19:41:19";"2024-01-17 19:45:43";"4th & C St SW";"member";264
+"F831DDDE8ACCAAE4";"classic_bike";"2024-01-10 07:22:26";"2024-01-10 07:31:25";"North Capitol St & F St NW";"member";539
+"99F54E008D0910BA";"classic_bike";"2024-01-09 07:02:55";"2024-01-09 07:12:01";"North Capitol St & F St NW";"member";546
+"25D0D554D319FFB7";"classic_bike";"2024-01-10 21:27:24";"2024-01-10 21:31:20";"Metro Center / 12th & G St NW";"member";236
+"A01916751166E06C";"classic_bike";"2024-01-09 07:43:36";"2024-01-09 07:57:52";"North Capitol St & F St NW";"member";856
+"8D04360EEA746950";"electric_bike";"2024-01-13 08:28:32";"2024-01-13 08:40:19";"Virginia Ave & 25th St NW";"casual";707
+"59D79B8B4E1D9C42";"classic_bike";"2024-01-13 14:35:52";"2024-01-13 15:51:10";"4th & C St SW";"casual";4518
+"8D0F6379775A7E50";"classic_bike";"2024-01-05 16:06:25";"2024-01-05 16:13:12";"4th & C St SW";"casual";407
+"4154626C6C86B84F";"classic_bike";"2024-01-22 17:00:20";"2024-01-22 17:17:18";"15th St & Constitution Ave NW";"casual";1018
+"B49A6EEBA920E2D2";"classic_bike";"2024-01-13 14:34:26";"2024-01-13 15:51:01";"4th & C St SW";"casual";4595
+"B543C6EFE41AF23B";"classic_bike";"2024-01-31 12:14:33";"2024-01-31 12:27:00";"North Capitol St & F St NW";"casual";747
+"D5CE7544A476099B";"classic_bike";"2024-01-07 12:51:53";"2024-01-07 12:59:54";"Constitution Ave & 2nd St NW/DOL";"casual";481
+"C746E54C316DE52F";"electric_bike";"2024-01-02 14:29:08";"2024-01-02 14:46:14";"Constitution Ave & 2nd St NW/DOL";"casual";1026
+"95B68AE82775CECD";"classic_bike";"2024-01-04 17:15:52";"2024-01-04 17:34:25";"15th St & Constitution Ave NW";"member";1113
+"DBC641979BFAF3D1";"classic_bike";"2024-01-12 17:19:25";"2024-01-12 17:45:50";"15th St & Constitution Ave NW";"casual";1585
+"67E13919EA67D03B";"classic_bike";"2024-01-13 09:39:12";"2024-01-13 10:04:10";"15th St & Constitution Ave NW";"member";1498
+"ECF0B24FDB93A31A";"classic_bike";"2024-01-08 16:28:27";"2024-01-08 16:52:47";"15th St & Constitution Ave NW";"member";1460
+"7F5769FF97323EE0";"classic_bike";"2024-01-03 08:14:12";"2024-01-03 08:24:19";"Constitution Ave & 2nd St NW/DOL";"member";607
+"CB1B0DFB5A1A67A9";"classic_bike";"2024-01-04 06:16:54";"2024-01-04 06:25:33";"North Capitol St & F St NW";"member";519
+"F249099F798B10CF";"classic_bike";"2024-01-26 15:34:39";"2024-01-26 18:28:35";"15th St & Constitution Ave NW";"casual";10436
+"814788B59E74C96B";"classic_bike";"2024-01-20 17:39:28";"2024-01-20 17:46:13";"15th St & Constitution Ave NW";"member";405
+"40D05F0476F4616C";"classic_bike";"2024-01-27 10:14:12";"2024-01-27 10:17:36";"Metro Center / 12th & G St NW";"member";204
+"4F60119D2313283E";"classic_bike";"2024-01-28 06:14:27";"2024-01-28 06:23:06";"4th & C St SW";"member";519
+"C283FFAF19EF84B4";"classic_bike";"2024-01-12 17:18:56";"2024-01-12 17:45:46";"15th St & Constitution Ave NW";"member";1610
+"44D064F3B6B8E45A";"electric_bike";"2024-01-29 09:50:20";"2024-01-29 09:57:40";"North Capitol St & F St NW";"member";440
+"301D69A914D762FB";"electric_bike";"2024-01-24 09:49:07";"2024-01-24 09:57:10";"North Capitol St & F St NW";"member";483
+"29561E60B0F5DA4C";"electric_bike";"2024-01-02 16:35:30";"2024-01-02 16:41:56";"Virginia Ave & 25th St NW";"member";386
+"37297C3E29082BB6";"electric_bike";"2024-01-24 01:26:33";"2024-01-24 01:30:35";"14th St & Colorado Ave NW";"member";242
+"8C0DE6891D190312";"classic_bike";"2024-01-08 21:13:13";"2024-01-08 21:17:24";"16th & R St NW";"member";251
+"A3A56BCCE32C26F8";"classic_bike";"2024-01-01 14:53:02";"2024-01-01 15:11:03";"Columbia & Ontario Rd NW";"member";1081
+"D53D0C07D3D56DAE";"classic_bike";"2024-01-24 08:08:46";"2024-01-24 08:13:41";"16th & R St NW";"member";295
+"79C99AEBD146440B";"electric_bike";"2024-01-14 15:37:28";"2024-01-14 15:40:28";"Lincoln Rd & Seaton Pl NE/Harry Thomas Rec Center";"member";180
+"2A10F18F9B744696";"electric_bike";"2024-01-25 18:09:26";"2024-01-25 18:16:24";"Fort Totten Metro";"casual";418
+"5D7105F3BCCC9B16";"classic_bike";"2024-01-25 15:06:06";"2024-01-25 15:14:37";"Thomas Circle";"member";511
+"87AB1DB2E0D59C46";"classic_bike";"2024-01-25 12:21:53";"2024-01-25 12:29:43";"Thomas Circle";"member";470
+"1A867FD8BCA76EA8";"electric_bike";"2024-01-11 13:29:48";"2024-01-11 13:37:10";"14th & Q St NW";"casual";442
+"3CF470C61AAF3440";"electric_bike";"2024-01-11 12:17:17";"2024-01-11 12:24:15";"Thomas Circle";"casual";418
+"E2C447C3BF189BCD";"electric_bike";"2024-01-11 10:50:44";"2024-01-11 10:56:00";"9th & Upshur St NW";"casual";316
+"7669CD1A1A166DF3";"electric_bike";"2024-01-11 09:24:35";"2024-01-11 09:31:34";"Fort Totten Metro";"casual";419
+"027071BB489F8CD6";"electric_bike";"2024-01-13 12:57:02";"2024-01-13 13:07:52";"9th & Upshur St NW";"casual";650
+"90EB669C07ECDCB1";"electric_bike";"2024-01-31 16:03:35";"2024-01-31 16:09:44";"Thomas Circle";"member";369
+"82E455EF545C038A";"electric_bike";"2024-01-05 17:01:00";"2024-01-05 17:06:11";"9th & Upshur St NW";"casual";311
+"CEA27400BF94B958";"electric_bike";"2024-01-05 13:47:56";"2024-01-05 13:53:17";"Fort Totten Metro";"casual";321
+"389F08C45D8EA4C0";"electric_bike";"2024-01-05 17:43:53";"2024-01-05 18:02:20";"Thomas Circle";"casual";1107
+"30173BF6FFEA3A95";"electric_bike";"2024-01-25 15:37:40";"2024-01-25 15:43:22";"9th & Upshur St NW";"casual";342
+"9BFBBD9906D3E2BC";"classic_bike";"2024-01-23 17:12:37";"2024-01-23 17:56:10";"Thomas Circle";"member";2613
+"5A65F8521D209BF6";"electric_bike";"2024-01-22 16:12:04";"2024-01-22 16:21:48";"Thomas Circle";"member";584
+"0809408ABE68A325";"classic_bike";"2024-01-23 10:56:23";"2024-01-23 11:06:14";"Thomas Circle";"member";591
+"921527B7DB841894";"electric_bike";"2024-01-17 12:13:49";"2024-01-17 12:21:27";"Thomas Circle";"casual";458
+"04D2E9025069D842";"electric_bike";"2024-01-22 22:37:32";"2024-01-22 22:45:01";"Thomas Circle";"casual";449
+"D7AAFC202636C535";"classic_bike";"2024-01-10 14:11:24";"2024-01-10 14:23:20";"Thomas Circle";"member";716
+"3F68D76A45CE1649";"electric_bike";"2024-01-05 18:16:54";"2024-01-05 18:21:49";"14th & Q St NW";"member";295
+"C903DD18A7FFDE58";"electric_bike";"2024-01-26 16:50:38";"2024-01-26 17:01:24";"Thomas Circle";"member";646
+"C318DA808EFD8870";"electric_bike";"2024-01-10 09:16:35";"2024-01-10 09:29:52";"Thomas Circle";"member";797
+"ED3A080800CE2793";"classic_bike";"2024-01-23 17:06:39";"2024-01-23 17:41:25";"Thomas Circle";"member";2086
+"00982FCC21783985";"classic_bike";"2024-01-12 11:33:18";"2024-01-12 11:37:31";"14th & Q St NW";"member";253
+"ADAE027BF32983C5";"classic_bike";"2024-01-27 19:58:45";"2024-01-27 20:04:14";"14th & Q St NW";"member";329
+"FE80EE3CE83F58CA";"electric_bike";"2024-01-04 07:20:03";"2024-01-04 07:24:55";"11th & Park Rd NW";"member";292
+"7290E0C8619A52D2";"classic_bike";"2024-01-10 09:19:30";"2024-01-10 09:33:52";"1st & O St NW";"member";862
+"944D83877BBA1B5D";"electric_bike";"2024-01-30 19:57:23";"2024-01-30 20:02:17";"1st & O St NW";"member";294
+"A4303A5A3EC2799A";"electric_bike";"2024-01-22 20:38:25";"2024-01-22 20:41:32";"1st & O St NW";"member";187
+"6C56D5BD007FC885";"classic_bike";"2024-01-24 20:53:13";"2024-01-24 20:57:21";"1st & O St NW";"member";248
+"DDECC7B96831AB0F";"classic_bike";"2024-01-18 20:45:51";"2024-01-18 20:49:33";"1st & O St NW";"member";222
+"F191575E78017EB3";"classic_bike";"2024-01-14 16:17:40";"2024-01-14 16:22:24";"1st & O St NW";"member";284
+"070A271CD611AE53";"classic_bike";"2024-01-31 20:56:14";"2024-01-31 20:59:59";"1st & O St NW";"member";225
+"1C132779ED704A51";"classic_bike";"2024-01-10 08:38:09";"2024-01-10 08:50:50";"1st & O St NW";"member";761
+"275012B59C94F605";"classic_bike";"2024-01-12 08:37:06";"2024-01-12 08:51:54";"1st & O St NW";"member";888
+"6974F9853F989648";"electric_bike";"2024-01-11 07:14:20";"2024-01-11 07:19:17";"11th & Park Rd NW";"casual";297
+"C1089E162E7969D5";"electric_bike";"2024-01-24 12:57:29";"2024-01-24 13:01:12";"Kansas Ave & Sherman Cr NW";"casual";223
+"803862DDD93D4E19";"classic_bike";"2024-01-08 20:48:54";"2024-01-08 20:56:27";"14th & Harvard St NW";"member";453
+"8E13815060410F3A";"classic_bike";"2024-01-10 20:22:25";"2024-01-10 20:29:18";"14th & Harvard St NW";"member";413
+"E325EE38A0C6494A";"classic_bike";"2024-01-08 06:36:37";"2024-01-08 06:40:14";"14th & Harvard St NW";"member";217
+"38FF23008B7A47BE";"classic_bike";"2024-01-29 16:34:10";"2024-01-29 17:02:36";"2nd & V St SW / James Creek Marina";"member";1706
+"7E38ADCC0BC482BE";"electric_bike";"2024-01-30 15:28:37";"2024-01-30 15:35:12";"17th St & Rhode Island Ave NW";"member";395
+"48111955D109FDE2";"classic_bike";"2024-01-11 07:01:57";"2024-01-11 07:19:08";"Clarendon Metro / Wilson Blvd & N Highland St";"member";1031
+"3C8C5877F9BB71E5";"electric_bike";"2024-01-27 13:10:38";"2024-01-27 14:23:07";"Smithsonian-National Mall / Jefferson Dr & 12th St SW";"casual";4349
+"0E851747A5003131";"classic_bike";"2024-01-05 16:59:19";"2024-01-05 17:13:42";"23rd & M St NW";"casual";863
+"8FA97BB1AA439973";"classic_bike";"2024-01-11 14:13:17";"2024-01-11 15:55:53";"Smithsonian-National Mall / Jefferson Dr & 12th St SW";"casual";6156
+"D4FC869396EB9513";"classic_bike";"2024-01-10 14:42:54";"2024-01-10 14:44:29";"Smithsonian-National Mall / Jefferson Dr & 12th St SW";"member";95
+"F715D349B206D464";"classic_bike";"2024-01-08 14:40:52";"2024-01-08 15:01:09";"Smithsonian-National Mall / Jefferson Dr & 12th St SW";"casual";1217
+"2F66BAC2E5CF60A2";"classic_bike";"2024-01-08 14:44:44";"2024-01-08 15:00:50";"Smithsonian-National Mall / Jefferson Dr & 12th St SW";"casual";966
+"9CA260B9BFDFE4FA";"classic_bike";"2024-01-08 14:34:38";"2024-01-08 15:00:28";"Smithsonian-National Mall / Jefferson Dr & 12th St SW";"casual";1550
+"CF05EFFB086F082B";"electric_bike";"2024-01-08 23:01:34";"2024-01-08 23:10:42";"22nd & P ST NW";"casual";548
+"77317D55F84AB932";"classic_bike";"2024-01-03 17:38:18";"2024-01-03 17:46:38";"17th St & Rhode Island Ave NW";"member";500
+"0DD371E67FCBC7FC";"classic_bike";"2024-01-02 17:40:14";"2024-01-02 17:46:30";"17th St & Rhode Island Ave NW";"member";376
+"9EDD927AC4B7560A";"classic_bike";"2024-01-25 20:06:14";"2024-01-25 20:13:27";"17th St & Rhode Island Ave NW";"member";433
+"D9872ED89D22D2D1";"classic_bike";"2024-01-29 07:54:18";"2024-01-29 08:01:40";"17th St & Rhode Island Ave NW";"member";442
+"06A8058B457ADEA2";"classic_bike";"2024-01-04 18:26:32";"2024-01-04 18:41:25";"17th St & Rhode Island Ave NW";"member";893
+"9B1A955C84FE575A";"classic_bike";"2024-01-11 22:16:56";"2024-01-11 22:27:26";"22nd & P ST NW";"member";630
+"A8865F72766AF0A6";"classic_bike";"2024-01-08 18:47:59";"2024-01-08 18:56:09";"22nd & P ST NW";"member";490
+"D24C30450567978B";"electric_bike";"2024-01-23 16:12:16";"2024-01-23 16:36:02";"Smithsonian-National Mall / Jefferson Dr & 12th St SW";"member";1426
+"B57F9B16773AC0EE";"classic_bike";"2024-01-27 15:38:49";"2024-01-27 16:16:46";"23rd & M St NW";"member";2277
+"6169652FB6ABC410";"classic_bike";"2024-01-12 05:18:23";"2024-01-12 05:27:37";"23rd & M St NW";"member";554
+"2BE6A5298E4116C5";"classic_bike";"2024-01-24 21:42:41";"2024-01-24 21:52:27";"17th St & Rhode Island Ave NW";"member";586
+"AC678C4C8946A142";"classic_bike";"2024-01-30 17:11:02";"2024-01-30 17:21:27";"17th St & Rhode Island Ave NW";"member";625
+"1ECDA3AFA08BDAE8";"classic_bike";"2024-01-24 07:14:11";"2024-01-24 07:22:16";"17th & P St NW";"casual";485
+"F5A0AFE0D6238203";"classic_bike";"2024-01-26 17:21:47";"2024-01-26 17:48:40";"N Lynn St & Fairfax Dr";"member";1613
+"3DE17F6CFF4D1431";"classic_bike";"2024-01-06 00:08:57";"2024-01-06 00:16:50";"14th St & Colorado Ave NW";"member";473
+"EB6EFE06EEC982BC";"electric_bike";"2024-01-17 01:17:19";"2024-01-17 01:21:43";"14th St & Colorado Ave NW";"member";264
+"D6EA2EECE7691AE8";"classic_bike";"2024-01-09 23:27:00";"2024-01-09 23:33:41";"14th St & Colorado Ave NW";"member";401
+"8C2BB9E0EDC9985B";"electric_bike";"2024-01-12 00:56:25";"2024-01-12 01:01:32";"14th St & Colorado Ave NW";"member";307
+"65F238A39A94DF55";"electric_bike";"2024-01-21 16:44:13";"2024-01-21 16:49:35";"14th St & Colorado Ave NW";"member";322
+"B16C2237E51D2DAB";"electric_bike";"2024-01-26 01:32:22";"2024-01-26 01:38:06";"14th St & Colorado Ave NW";"member";344
+"A53FBF1CE358426F";"electric_bike";"2024-01-05 00:07:06";"2024-01-05 00:11:17";"14th St & Colorado Ave NW";"member";251
+"EBA71025EBA2D81F";"electric_bike";"2024-01-07 01:22:45";"2024-01-07 01:27:18";"14th St & Colorado Ave NW";"member";273
+"B8C55BA6492189F2";"classic_bike";"2024-01-29 17:39:46";"2024-01-29 17:52:50";"17th & P St NW";"member";784
+"6B875A277C4E1E66";"electric_bike";"2024-01-11 18:30:21";"2024-01-11 18:39:58";"17th & P St NW";"member";577
+"BE7AAD66497D9E1F";"classic_bike";"2024-01-10 21:13:04";"2024-01-10 21:18:19";"16th & R St NW";"member";315
+"9173A0F1ED0FA47D";"electric_bike";"2024-01-25 00:16:08";"2024-01-25 00:23:56";"17th & P St NW";"member";468
+"9DBEB73FDEB24091";"classic_bike";"2024-01-04 21:42:42";"2024-01-04 21:47:39";"16th & R St NW";"member";297
+"EF43761530DB4CA3";"classic_bike";"2024-01-29 16:59:59";"2024-01-29 17:05:20";"17th & P St NW";"member";321
+"821FC5FB51E1CCEE";"electric_bike";"2024-01-08 20:53:04";"2024-01-08 20:57:23";"14th St & Colorado Ave NW";"member";259
+"95DFEDFAAF5BA40B";"classic_bike";"2024-01-01 12:34:40";"2024-01-01 13:03:24";"Wisconsin Ave & Rodman St NW";"member";1724
+"2DC799848E334F77";"classic_bike";"2024-01-25 14:56:01";"2024-01-25 15:01:52";"17th & P St NW";"member";351
+"CCC55CB371487EA1";"electric_bike";"2024-01-30 19:46:54";"2024-01-30 19:51:55";"17th & P St NW";"member";301
+"2DFAE09387E521F3";"electric_bike";"2024-01-10 17:59:55";"2024-01-10 18:03:40";"17th & P St NW";"member";225
+"18B8E5393DA309A7";"electric_bike";"2024-01-22 22:37:46";"2024-01-22 22:44:05";"17th & P St NW";"member";379
+"868CE6795F2179F7";"classic_bike";"2024-01-15 15:10:07";"2024-01-15 15:15:34";"17th & P St NW";"member";327
+"B40123120D7363EE";"classic_bike";"2024-01-24 04:26:49";"2024-01-24 04:36:24";"16th & R St NW";"member";575
+"9DC1AD91E92CCB73";"electric_bike";"2024-01-18 19:33:49";"2024-01-18 19:39:33";"17th & P St NW";"member";344
+"3BBED43E93825983";"classic_bike";"2024-01-23 15:11:26";"2024-01-23 15:14:46";"16th & R St NW";"member";200
+"892B727E53A3921B";"classic_bike";"2024-01-22 18:19:56";"2024-01-22 18:27:02";"16th & R St NW";"member";426
+"8CCF77B194EE4CC4";"electric_bike";"2024-01-25 13:14:09";"2024-01-25 13:28:01";"Calvert St & Woodley Pl NW";"member";832
+"386424192622408B";"electric_bike";"2024-01-02 13:11:44";"2024-01-02 13:23:23";"Calvert St & Woodley Pl NW";"member";699
+"631E23E99A27FAE1";"classic_bike";"2024-01-25 19:14:24";"2024-01-25 19:43:03";"1st & N St SE";"member";1719
+"5659D052629E6BE2";"classic_bike";"2024-01-02 13:40:06";"2024-01-02 14:14:07";"Henry Bacon Dr & Lincoln Memorial Circle NW";"casual";2041
+"E06CD4D4DEC8B389";"electric_bike";"2024-01-27 09:15:01";"2024-01-27 09:23:49";"Wisconsin Ave & O St NW";"member";528
+"63DE07CEF8FC1996";"classic_bike";"2024-01-24 20:26:52";"2024-01-24 20:46:02";"Wisconsin Ave & O St NW";"member";1150
+"8DCE6181B7378302";"classic_bike";"2024-01-26 14:49:36";"2024-01-26 15:02:15";"Henry Bacon Dr & Lincoln Memorial Circle NW";"member";759
+"628DBE9E8094F2F6";"classic_bike";"2024-01-10 22:40:20";"2024-01-10 22:49:06";"Connecticut Ave & Tilden St NW";"member";526
+"5BD1A65C0849942D";"classic_bike";"2024-01-26 15:39:11";"2024-01-26 16:09:58";"Oklahoma Ave & D St NE";"member";1847
+"36EB57A89D553B8B";"classic_bike";"2024-01-18 17:45:53";"2024-01-18 18:14:02";"Connecticut Ave & Tilden St NW";"member";1689
+"64E4946E58430B00";"electric_bike";"2024-01-23 19:14:36";"2024-01-23 19:23:26";"Constitution Ave & 2nd St NW/DOL";"casual";530
+"6151E82E7AC8935B";"classic_bike";"2024-01-28 14:01:06";"2024-01-28 14:29:16";"1st & K St NE";"member";1690
+"76D1745D5A2C080E";"electric_bike";"2024-01-11 12:29:24";"2024-01-11 12:38:21";"Metro Center / 12th & G St NW";"casual";537
+"4E4DD1955ACB4E43";"classic_bike";"2024-01-31 17:32:54";"2024-01-31 17:47:54";"Constitution Ave & 2nd St NW/DOL";"casual";900
+"84D3574F94B3A8C0";"electric_bike";"2024-01-29 15:53:47";"2024-01-29 16:02:46";"Metro Center / 12th & G St NW";"casual";539
+"0B5EEF1BCD5FC939";"electric_bike";"2024-01-03 15:47:01";"2024-01-03 15:57:39";"Metro Center / 12th & G St NW";"casual";638
+"C072B54EDA48230D";"classic_bike";"2024-01-17 11:48:07";"2024-01-17 11:55:27";"1st & K St NE";"member";440
+"F3B05F61816889F4";"electric_bike";"2024-01-25 18:14:38";"2024-01-25 18:20:54";"1st & K St NE";"member";376
+"EFCCD3DF26F57D27";"classic_bike";"2024-01-31 11:51:44";"2024-01-31 11:58:21";"1st & K St NE";"member";397
+"CE4525723AD849CD";"electric_bike";"2024-01-20 08:48:12";"2024-01-20 08:54:42";"1st & K St NE";"member";390
+"25A68AC804435517";"classic_bike";"2024-01-26 11:52:19";"2024-01-26 11:58:04";"1st & K St NE";"member";345
+"212C284919092D9B";"classic_bike";"2024-01-10 15:58:49";"2024-01-10 16:15:21";"4th & C St SW";"member";992
+"CCD82D4DDDD81AE8";"classic_bike";"2024-01-17 17:33:40";"2024-01-17 17:43:06";"North Capitol St & F St NW";"member";566
+"8314CB7A04434040";"electric_bike";"2024-01-25 05:50:28";"2024-01-25 05:54:09";"1st & K St NE";"member";221
+"E967CDE29DE38EB9";"electric_bike";"2024-01-26 13:23:02";"2024-01-26 13:37:21";"North Capitol St & F St NW";"member";859
+"914A6DCD462AE636";"electric_bike";"2024-01-02 09:15:32";"2024-01-02 09:35:35";"Kansas Ave & Sherman Cr NW";"member";1203
+"437B8042C6C3C3CB";"classic_bike";"2024-01-23 09:46:16";"2024-01-23 09:57:57";"11th & Park Rd NW";"member";701
+"36EC682E7BEDCBE7";"classic_bike";"2024-01-11 20:18:47";"2024-01-11 20:22:55";"Crystal Dr & 20th St S";"member";248
+"9C5F32E7FA38E85B";"classic_bike";"2024-01-11 16:08:39";"2024-01-11 16:19:41";"16th & R St NW";"member";662
+"BD4C0B8F65C5E7F2";"classic_bike";"2024-01-04 16:06:31";"2024-01-04 16:16:04";"16th & R St NW";"member";573
+"9D981060B029ABA8";"electric_bike";"2024-01-07 12:59:39";"2024-01-07 13:09:00";"16th & R St NW";"member";561
+"7BE569492921039A";"electric_bike";"2024-01-06 09:17:27";"2024-01-06 09:29:04";"16th & R St NW";"member";697
+"1802292058725681";"classic_bike";"2024-01-03 08:55:10";"2024-01-03 09:09:19";"16th & R St NW";"member";849
+"B065E83DD7C7AB34";"electric_bike";"2024-01-28 12:49:28";"2024-01-28 13:01:30";"Massachusetts Ave & 6th St NE";"member";722
+"00B1932301D8AD94";"electric_bike";"2024-01-04 13:41:07";"2024-01-04 13:49:39";"Virginia Ave & 25th St NW";"member";512
+"E7DA1D4210755E4B";"electric_bike";"2024-01-11 15:09:31";"2024-01-11 15:25:44";"Virginia Ave & 25th St NW";"casual";973
+"2CB94190B4FD7A10";"electric_bike";"2024-01-11 15:09:27";"2024-01-11 15:25:56";"Virginia Ave & 25th St NW";"casual";989
+"4D887203191BCD43";"classic_bike";"2024-01-22 09:17:03";"2024-01-22 09:27:38";"1st & K St NE";"casual";635
+"51DB5B56E40EBD6D";"electric_bike";"2024-01-10 08:32:57";"2024-01-10 08:40:15";"North Capitol St & F St NW";"member";438
+"47C12FA2475748DC";"classic_bike";"2024-01-26 13:45:03";"2024-01-26 13:52:52";"Constitution Ave & 2nd St NW/DOL";"member";469
+"D559626E1FFAC4F7";"classic_bike";"2024-01-26 12:16:25";"2024-01-26 13:06:02";"North Capitol St & F St NW";"casual";2977
+"2C7C0DB22F0FDA52";"classic_bike";"2024-01-13 11:18:02";"2024-01-13 11:35:45";"2nd St & Massachusetts Ave NE";"member";1063
+"9367BD591C8A5782";"electric_bike";"2024-01-04 11:46:31";"2024-01-04 12:11:40";"Oklahoma Ave & D St NE";"member";1509
+"6DA386C78A4A5169";"classic_bike";"2024-01-12 10:03:37";"2024-01-12 10:39:09";"Anacostia Metro";"member";2132
+"0C62A9369E619A6F";"classic_bike";"2024-01-13 16:22:02";"2024-01-13 16:24:28";"Connecticut Ave & Tilden St NW";"member";146
+"8E5B57B51B407390";"classic_bike";"2024-01-24 18:49:28";"2024-01-24 18:52:59";"Connecticut Ave & Tilden St NW";"member";211
+"B47480C586149BFB";"electric_bike";"2024-01-25 09:36:17";"2024-01-25 09:45:01";"Thomas Circle";"member";524
+"5B99FB79BEEBB682";"electric_bike";"2024-01-26 14:12:39";"2024-01-26 14:19:06";"9th & Upshur St NW";"casual";387
+"23BA6508FFC46574";"classic_bike";"2024-01-25 08:55:58";"2024-01-25 09:01:15";"Thomas Circle";"casual";317
+"2A6EBADC554EB656";"electric_bike";"2024-01-27 18:30:15";"2024-01-27 18:36:55";"Thomas Circle";"casual";400
+"B248B57CD6D979BE";"electric_bike";"2024-01-03 15:25:39";"2024-01-03 15:42:46";"Thomas Circle";"member";1027
+"4D8516FA591AC0EF";"classic_bike";"2024-01-10 08:37:19";"2024-01-10 08:42:57";"Thomas Circle";"casual";338
+"B55DBD3B9A7876F7";"classic_bike";"2024-01-30 08:45:05";"2024-01-30 09:12:09";"11th & Park Rd NW";"member";1624
+"D7A1E0CF8B16A7D3";"classic_bike";"2024-01-30 16:36:38";"2024-01-30 16:55:50";"Wilson Blvd & N Oak St";"member";1152
+"163A007F68DD8F98";"electric_bike";"2024-01-12 12:48:23";"2024-01-12 12:58:17";"Wilson Blvd & N Oak St";"member";594
+"5C6299D6FF547C2A";"classic_bike";"2024-01-21 10:45:48";"2024-01-21 10:58:36";"9th St & Pennsylvania Ave NW";"casual";768
+"D8E96D4BCF9FC3D5";"classic_bike";"2024-01-24 08:00:41";"2024-01-24 08:03:02";"Wilson Blvd & N Oak St";"member";141
+"F9F9EE69846826E2";"electric_bike";"2024-01-24 23:59:49";"2024-01-25 00:07:20";"9th St & Pennsylvania Ave NW";"member";451
+"548ECD26B4910606";"classic_bike";"2024-01-09 06:39:29";"2024-01-09 06:46:05";"Eastern Market / 7th & North Carolina Ave SE";"member";396
+"6FDC814A1B14BA29";"electric_bike";"2024-01-18 23:38:39";"2024-01-18 23:51:07";"5th & F St NW";"casual";748
+"5574726BCE24DDDE";"classic_bike";"2024-01-26 16:40:21";"2024-01-26 16:44:24";"11th & S St NW";"casual";243
+"14B8B1CECF9895E8";"classic_bike";"2024-01-27 00:04:12";"2024-01-27 00:14:03";"5th & F St NW";"casual";591
+"D7AA55FD39BD1738";"electric_bike";"2024-01-13 01:15:40";"2024-01-13 01:24:11";"11th & S St NW";"casual";511
+"F2E6CAA8A67E704B";"electric_bike";"2024-01-28 15:03:21";"2024-01-28 15:09:21";"Eastern Market / 7th & North Carolina Ave SE";"casual";360
+"88025329D32BA7C5";"classic_bike";"2024-01-07 09:43:01";"2024-01-07 09:46:44";"11th & S St NW";"casual";223
+"255249627B38512A";"electric_bike";"2024-01-07 17:37:37";"2024-01-07 17:39:49";"11th & S St NW";"casual";132
+"3A98AEF1BE644D0D";"electric_bike";"2024-01-26 14:34:51";"2024-01-26 14:45:20";"7th & Monroe St NE";"member";629
+"F0BF477A02B5BEC3";"classic_bike";"2024-01-14 20:01:07";"2024-01-14 20:05:29";"11th & S St NW";"member";262
+"0422EAD443854CCD";"electric_bike";"2024-01-26 16:56:25";"2024-01-26 17:10:52";"8th & D St NW";"member";867
+"AC78DCFEA37DCB30";"classic_bike";"2024-01-23 17:02:10";"2024-01-23 17:15:03";"8th & D St NW";"member";773
+"871504F626BFFDBE";"classic_bike";"2024-01-15 13:31:45";"2024-01-15 13:40:33";"Eastern Market / 7th & North Carolina Ave SE";"member";528
+"2FB16774104220D9";"classic_bike";"2024-01-29 19:15:00";"2024-01-29 19:18:18";"11th & S St NW";"member";198
+"CA245B0584DC1637";"classic_bike";"2024-01-29 10:57:38";"2024-01-29 11:00:22";"11th & S St NW";"member";164
+"87642DC0CD05C429";"classic_bike";"2024-01-21 14:03:31";"2024-01-21 14:06:20";"11th & S St NW";"member";169
+"51FE5586C2309027";"electric_bike";"2024-01-08 20:03:26";"2024-01-08 20:05:18";"Wilson Blvd & N Troy St";"member";112
+"155938C80B1A8C2F";"electric_bike";"2024-01-22 15:34:49";"2024-01-22 15:44:18";"Kansas Ave & Sherman Cr NW";"member";569
+"7EECA568F8CAD8CD";"electric_bike";"2024-01-28 10:16:15";"2024-01-28 10:24:38";"Kansas Ave & Sherman Cr NW";"member";503
+"9811B710BD322C37";"electric_bike";"2024-01-12 17:11:00";"2024-01-12 17:24:16";"Neal St & Trinidad Ave NE";"member";796
+"6D8D45C29EA97FBC";"electric_bike";"2024-01-18 10:18:08";"2024-01-18 10:27:30";"Kansas Ave & Sherman Cr NW";"member";562
+"E0C524751E546035";"electric_bike";"2024-01-29 11:42:20";"2024-01-29 11:50:53";"Kansas Ave & Sherman Cr NW";"member";513
+"3A3EAB9F963C119C";"classic_bike";"2024-01-08 18:25:24";"2024-01-08 18:30:28";"14th & Upshur St NW";"member";304
+"4FD06512D9AF492A";"electric_bike";"2024-01-07 23:40:27";"2024-01-08 00:09:10";"Georgia & Missouri Ave NW";"member";1723
+"B58DEC4975247743";"electric_bike";"2024-01-26 15:55:02";"2024-01-26 15:59:16";"Baron Cameron Ave & North Hampton Ave";"casual";254
+"258EEDEAF532F0A9";"electric_bike";"2024-01-14 10:12:34";"2024-01-14 10:19:09";"2nd St & Massachusetts Ave NE";"casual";395
+"0A2FF0C49843B75B";"classic_bike";"2024-01-26 19:48:32";"2024-01-26 19:58:12";"2nd St & Massachusetts Ave NE";"member";580
+"B10252703B2A99F2";"classic_bike";"2024-01-03 18:26:39";"2024-01-03 18:38:08";"2nd St & Massachusetts Ave NE";"member";689
+"8AC232FF1204C017";"classic_bike";"2024-01-27 13:51:12";"2024-01-27 13:58:37";"17th & P St NW";"member";445
+"AF7B823B989B232B";"electric_bike";"2024-01-20 16:04:02";"2024-01-20 16:13:38";"Massachusetts Ave & 6th St NE";"member";576
+"E3862A287B78BA72";"classic_bike";"2024-01-30 17:44:39";"2024-01-30 17:50:09";"17th & P St NW";"member";330
+"43CC21FD75CF118B";"classic_bike";"2024-01-12 12:06:07";"2024-01-12 12:55:08";"South Capitol & Atlantic St SW";"member";2941
+"80160994C12559E0";"classic_bike";"2024-01-05 13:50:42";"2024-01-05 14:01:05";"9th & Upshur St NW";"casual";623
+"4217DF33C6D8CB04";"classic_bike";"2024-01-26 19:36:52";"2024-01-26 19:52:13";"14th & Q St NW";"casual";921
+"8DB7B8F91784A565";"electric_bike";"2024-01-29 20:45:40";"2024-01-29 20:51:26";"14th & Q St NW";"member";346
+"6A4C20DF1E244C91";"electric_bike";"2024-01-14 22:34:22";"2024-01-14 22:49:14";"Thomas Circle";"member";892
+"1EB176C1072C0668";"classic_bike";"2024-01-17 18:25:25";"2024-01-17 18:33:52";"Wilson Blvd & N Edgewood St";"member";507
+"90A766A8830050D1";"classic_bike";"2024-01-07 13:45:14";"2024-01-07 14:00:57";"1st & K St NE";"member";943
+"C6D50D342BACF91E";"classic_bike";"2024-01-23 09:03:33";"2024-01-23 09:11:02";"Wilson Blvd & N Edgewood St";"member";449
+"10855CCA85F6B388";"electric_bike";"2024-01-11 17:32:16";"2024-01-11 17:38:47";"Wilson Blvd & N Edgewood St";"member";391
+"296C1DAF00728BB5";"classic_bike";"2024-01-08 19:28:50";"2024-01-08 19:46:59";"North Capitol St & F St NW";"member";1089
+"730F1483BCD06656";"classic_bike";"2024-01-13 16:55:17";"2024-01-13 17:03:07";"Wilson Blvd & N Edgewood St";"member";470
+"4DA1A3821CEAC960";"classic_bike";"2024-01-14 16:16:37";"2024-01-14 16:25:04";"Wilson Blvd & N Edgewood St";"member";507
+"2CB7BF462F93E61F";"electric_bike";"2024-01-30 16:28:11";"2024-01-30 16:43:22";"Metro Center / 12th & G St NW";"casual";911
+"70F1DA949521AE2D";"electric_bike";"2024-01-13 18:44:53";"2024-01-13 18:56:12";"North Capitol St & F St NW";"casual";679
+"981B58A26D6568EF";"classic_bike";"2024-01-01 14:01:03";"2024-01-01 15:15:26";"Metro Center / 12th & G St NW";"casual";4463
+"02BAB30CD0D318A3";"classic_bike";"2024-01-22 17:38:48";"2024-01-22 18:00:13";"Metro Center / 12th & G St NW";"casual";1285
+"2652E67895939ED3";"electric_bike";"2024-01-31 18:27:45";"2024-01-31 18:48:10";"Wilson Blvd & N Edgewood St";"casual";1225
+"35E3AC9534FD665F";"electric_bike";"2024-01-07 17:00:07";"2024-01-07 17:06:38";"4th & C St SW";"casual";391
+"188857096F22C0AF";"electric_bike";"2024-01-14 18:16:48";"2024-01-14 18:21:36";"Wilson Blvd & N Edgewood St";"casual";288
+"08BF2B007D5467F7";"electric_bike";"2024-01-04 18:59:38";"2024-01-04 19:22:07";"Constitution Ave & 2nd St NW/DOL";"member";1349
+"F2FBCF0E680ADC47";"electric_bike";"2024-01-17 18:41:07";"2024-01-17 18:54:54";"Wilson Blvd & N Edgewood St";"member";827
+"862B2F5490496E54";"classic_bike";"2024-01-24 20:19:19";"2024-01-24 20:30:24";"North Capitol St & F St NW";"member";665
+"DEECCA2F5CF0DD2C";"classic_bike";"2024-01-16 12:06:42";"2024-01-16 13:07:39";"North Capitol St & F St NW";"member";3657
+"DCB461ED662C1E32";"classic_bike";"2024-01-27 13:52:54";"2024-01-27 14:00:34";"Wilson Blvd & N Edgewood St";"member";460
+"CCAAFD5E8DB3772B";"classic_bike";"2024-01-07 11:46:30";"2024-01-07 12:01:56";"4th & C St SW";"member";926
+"B07699F55A36D5A9";"electric_bike";"2024-01-07 11:47:44";"2024-01-07 12:02:21";"4th & C St SW";"member";877
+"58600ECF191E0654";"classic_bike";"2024-01-31 19:34:49";"2024-01-31 19:39:59";"Wilson Blvd & N Edgewood St";"member";310
+"0B749BE68541C72C";"classic_bike";"2024-01-18 17:20:59";"2024-01-18 17:40:15";"15th St & Constitution Ave NW";"member";1156
+"D25DE93D69989F9C";"classic_bike";"2024-01-03 20:39:17";"2024-01-03 20:46:11";"Wilson Blvd & N Edgewood St";"member";414
+"E3D14FD4731685CB";"classic_bike";"2024-01-29 21:21:46";"2024-01-29 21:31:30";"North Capitol St & F St NW";"member";584
+"398F1F4E3A99A0E4";"classic_bike";"2024-01-26 15:56:41";"2024-01-26 16:07:55";"1st & K St NE";"member";674
+"5EF8A647847CB060";"electric_bike";"2024-01-06 15:35:45";"2024-01-06 15:41:48";"North Capitol St & F St NW";"member";363
+"093C54C6E9D9FD10";"classic_bike";"2024-01-30 19:24:06";"2024-01-30 19:41:28";"4th & C St SW";"member";1042
+"718059AA8AB07EDD";"classic_bike";"2024-01-25 18:11:37";"2024-01-25 18:17:50";"Wilson Blvd & N Edgewood St";"member";373
+"DB9F31D91D52512B";"classic_bike";"2024-01-12 17:10:18";"2024-01-12 17:21:08";"North Capitol St & F St NW";"member";650
+"311374D6F3BB0EBE";"classic_bike";"2024-01-08 23:54:20";"2024-01-09 00:13:41";"Westpark & Jones Branch Dr";"member";1161
+"1DFD32F3C0F3FCF8";"electric_bike";"2024-01-21 22:21:20";"2024-01-21 22:25:24";"Metro Center / 12th & G St NW";"member";244
+"74F5AF169D413430";"classic_bike";"2024-01-06 00:33:28";"2024-01-06 00:52:32";"Westpark & Jones Branch Dr";"member";1144
+"042A77482C76BC9C";"classic_bike";"2024-01-10 16:55:20";"2024-01-10 17:04:37";"North Capitol St & F St NW";"member";557
+"8F3E5082484B9BE8";"classic_bike";"2024-01-25 15:46:50";"2024-01-25 15:56:19";"14th & Harvard St NW";"member";569
+"9CB7F5617274EDA5";"electric_bike";"2024-01-28 15:53:34";"2024-01-28 16:02:16";"14th & Harvard St NW";"member";522
+"B214D86DA45CC273";"electric_bike";"2024-01-13 12:05:11";"2024-01-13 12:11:44";"Columbia & Ontario Rd NW";"member";393
+"C399629179C8C90A";"electric_bike";"2024-01-04 19:58:47";"2024-01-04 20:02:33";"17th & P St NW";"member";226
+"1D04483CF6479136";"classic_bike";"2024-01-22 18:43:30";"2024-01-22 18:59:58";"16th & R St NW";"member";988
+"8104871C4DEE7897";"electric_bike";"2024-01-04 19:52:24";"2024-01-04 20:01:17";"17th & P St NW";"member";533
+"699521BA1318643B";"electric_bike";"2024-01-05 13:04:23";"2024-01-05 13:13:57";"17th & P St NW";"member";574
+"1B899BEA09982EC2";"electric_bike";"2024-01-02 21:35:07";"2024-01-02 21:38:54";"Columbia & Ontario Rd NW";"member";227
+"526FEA81A3B0AF10";"electric_bike";"2024-01-30 21:53:53";"2024-01-30 21:59:04";"Columbia & Ontario Rd NW";"member";311
+"1984F24197E2D43B";"classic_bike";"2024-01-12 13:46:43";"2024-01-12 13:52:23";"Columbia & Ontario Rd NW";"member";340
+"BE962857DCE11CA1";"classic_bike";"2024-01-04 17:45:20";"2024-01-04 17:54:34";"17th & P St NW";"member";554
+"DACC3C2E558E2928";"classic_bike";"2024-01-27 16:40:33";"2024-01-27 16:48:23";"Maine Ave & Water St SW";"member";470
+"6D0A65790BA1874B";"electric_bike";"2024-01-07 10:37:58";"2024-01-07 10:55:35";"Columbia & Ontario Rd NW";"member";1057
